@@ -5,6 +5,8 @@ Pemrograman Web B pertemuan 9 membuat Form Pendaftaran Siswa Baru.
 | ---- | --- |
 | Najma Lail Arazy | 5025241243 |
 
+Membuat aplikasi CRUD Pendaftaran Siswa baru dengan menghubungkan PHP dan MySQL menggunakan API mysqli.
+
 Tampilan:
 
 index.php
@@ -18,3 +20,5 @@ form-daftar.php
 list-siswa.php
 
 <img width="896" height="299" alt="Screenshot 2025-11-03 114147" src="https://github.com/user-attachments/assets/665c95c9-6b86-4406-b6ec-236958f33d6e" />
+
+Source: https://www.petanikode.com/tutorial-php-mysql/
